@@ -1,0 +1,85 @@
+body {
+  background-image: url("images/beige-tiles.png");
+  background-repeat: repeat;
+  color: #221d23;
+  font-family: 'Assistant', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cinzel', serif;
+}
+
+h4 {
+  color: #4f3824;
+}
+
+div {
+  background-color: #d0e37f;
+}
+
+span {
+  margin: 5px;
+  font-size: 1.2em;
+}
+
+#profile {
+  width: 200px;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #4f3824;
+}
+
+.card {
+  background-color: #ddb967;
+  width: 90%;
+  margin: 10px auto;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 2px 2px 2px #d1603d;
+}
+
+i {
+  padding: 5px;
+  font-size: 3em;
+  color: #221d23;
+}
+
+#same-size {
+  font-size: 1.2em;
+}
+
+i:hover {
+  color: #d1603d;
+}
+
+a {
+  text-decoration: none;
+  color: #4f3824;
+}
+
+a:hover {
+  color: #d1603d;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  font-weight: bold;
+}
+
+
+/*
+black: #221d23
+brown: #4f3824
+orange: #d1603d
+earth yellow: #ddb967
+green: #d0e37f
+*/
